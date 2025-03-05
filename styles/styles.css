@@ -12,3 +12,13 @@
     padding: 10px;
     border-radius: 20px;
 }
+
+.header {
+    background-color: lightcoral;
+    display: flex;
+}
+
+.title {
+    font-size: 20px;
+    color: brown;
+}
